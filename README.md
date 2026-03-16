@@ -38,3 +38,4 @@ A gathered total of an hour was used to think up and draw how I'd love my app to
     - Change your currency type. **(available tpyes are: USD, NGN, EUR, GBP, CAD and GHS)**
     - Instant currency conversion as you input your amount. 
     (was thinking of using a convert button but that'll be too stressful for the users. Idea was gotten when using google's default currency converter).
+    - **NOTE** : AN ACTIVE INTERNET CONNECTION IS REQUIRED TO USE THE CURRENCY CONVERTER
